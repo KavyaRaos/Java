@@ -15,5 +15,7 @@ public class Array {
         for (int n : arr){
             System.out.println(n);
         }
+        /* End of code */
+
     }
 }
